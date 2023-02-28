@@ -17,12 +17,12 @@
 
 
 ## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs?username=adityathakur12&theme=nightowl&hide_border=false&show_icons=true&locale=en&layout=compact)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adityathakur12&theme=nightowl&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api?username=adityathakur12&theme=nightowl&hide_border=false&show_icons=true&locale=en)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=adii1203&theme=nightowl&hide_border=false&show_icons=true&locale=en&layout=compact)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adii1203&theme=nightowl&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=adii1203&theme=nightowl&hide_border=false&show_icons=true&locale=en)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adityathakur12&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=adii1203&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 
-[![](https://visitcount.itsvg.in/api?id=Adityathakur12&icon=0&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=adii1203&icon=0&color=8)](https://visitcount.itsvg.in)
